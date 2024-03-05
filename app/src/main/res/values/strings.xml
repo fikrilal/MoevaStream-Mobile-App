@@ -1,3 +1,99 @@
 <resources>
     <string name="app_name">MoevaStream-Mobile-App</string>
+
+    <string name="movie_name">Movies Title</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_storyline">Storyline</string>
+
+    <string-array name="data_name">
+        <item>Transformers: Dark of the Moon</item>
+        <item>Transformers: Revenge of the Fallen</item>
+        <item>Pacific Rim</item>
+        <item>Pacific Rim: Uprising</item>
+        <item>Avengers: Infinity War</item>
+        <item>Thor: The Dark World</item>
+        <item>Godzilla vs. Kong</item>
+        <item>Godzilla: King of the Monsters</item>
+        <item>Avatar: The Way of Water</item>
+        <item>Interstellar</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.</item>
+        <item>Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers\' war.</item>
+        <item>As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.</item>
+        <item>Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.</item>
+        <item>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</item>
+        <item>When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.</item>
+        <item>The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other—the fearsome Godzilla and the mighty Kong—with humanity caught in the balance.</item>
+        <item>The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.</item>
+        <item>Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na\'vi race to protect their home.</item>
+        <item>When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.</item>
+    </string-array>
+
+    <string-array name="data_storyline">
+        <item>Autobots Bumblebee, Ratchet, Ironhide, Mirage (aka Dino), Wheeljack (aka Que) and Sideswipe led by Optimus Prime, are back in action taking on the evil Decepticons, who are eager to avenge their recent defeat. The Autobots and Decepticons become involved in a perilous space race between the United States and Russia to reach a hidden Cybertronian spacecraft on the moon and learn its secrets, and once again Sam Witwicky has to go to the aid of his robot friends. The new villain Shockwave is on the scene while the Autobots and Decepticons continue to battle it out on Earth.</item>
+        <item>A youth chooses manhood. The week Sam Witwicky starts college, the Decepticons make trouble in Shanghai. A presidential envoy believes it\'s because the Autobots are around; he wants them gone. He\'s wrong: the Decepticons need access to Sam\'s mind to see some glyphs imprinted there that will lead them to a fragile object that, when inserted in an alien machine hidden in Egypt for centuries, will give them the power to blow out the sun. Sam, his girlfriend Mikaela Banes, and Sam's parents are in danger. Optimus Prime and Bumblebee are Sam's principal protectors. If one of them goes down, what becomes of Sam?</item>
+        <item>When monstrous creatures, known as Kaiju, started rising from the sea, a war began that would take millions of lives and consume humanity\'s resources for years on end. To combat the giant Kaiju, a special type of weapon was devised: massive robots, called Jaegers, which are controlled simultaneously by two pilots whose minds are locked in a neural bridge. But even the Jaegers are proving nearly defenseless in the face of the relentless Kaiju. On the verge of defeat, the forces defending mankind have no choice but to turn to two unlikely heroes - a washed up former pilot (Charlie Hunnam) and an untested trainee (Rinko Kikuchi) - who are teamed to drive a legendary but seemingly obsolete Jaeger from the past. Together, they stand as mankind's last hope against the mounting apocalypse.</item>
+        <item>It is 2035, 10 years after the Battle of the Breach, in which the inter-dimensional portal created by the Precursors (through which they sent marauding Kaiju) was closed. Former Jaeger pilot Jake Pentecost, son of Battle of the Breach hero Stacker Pentecost, makes a living by stealing and selling Jaeger parts on the black market in the Los Angeles area. After he tracks part of a disabled Jaeger\'s power core to the secret workshop of 15-year-old Jaeger enthusiast Amara Namani, both are arrested by the Pan-Pacific Defense Corps (PPDC) after an altercation between Amara's small, single-pilot Jaeger Scrapper and the Police Jaeger November Ajax. A holographic transmission of Jake's adoptive sister and PPDC Secretary General Mako Mori persuades him to return to PPDC as an instructor, with Amara as his recruit..</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.</item>
+        <item>Thousands of years ago, a race of beings known as Dark Elves tried to send the universe into darkness by using a weapon known as the Aether. Warriors from Asgard stopped them, but their leader Malekith (Christopher Eccleston) escaped to wait for another opportunity. The warriors find the Aether, and since it cannot be destroyed, they try to hide it. In the present day, Jane Foster (Natalie Portman) awaits the return of Thor (Chris Hemsworth), although it has been two years since they last saw once another. In the meantime, Thor has been trying to bring peace to the nine realms. Jane discovers an anomaly similar to the one that brought Thor to Earth. She goes to investigate, finds a wormhole, and is sucked into it. Back on Asgard, Thor wishes to return to Earth, but his father, Odin (Sir Anthony Hopkins), refuses to let him. Thor learns from Heimdall (Idris Elba), who can see into all of the realms, that Jane disappeared. Thor then returns to Earth just as Jane reappears. However, when some Policemen try to arrest her, an unknown energy repulses them. Thor then brings Jane to Asgard to find out what happened to her. When the energy is released again, they discover that when Jane disappeared, she crossed paths with the Aether and it entered her. Malekith, upon sensing that the time to strike is now, seeks out the Aether. He attacks Asgard and Thor\'s mother Frigga (Rene Russo) is killed protecting Jane. Odin wants to keep Jane on Asgard so that Malekith will come. Thor disagrees with his plan, so with his cohorts, he decides to take Jane away. He enlists the aid of his brother, Loki (Tom Hiddleston). Unfortunately, Loki's motivations remain unknown.</item>
+        <item>Legends collide as Godzilla and Kong, the two most powerful forces of nature, clash on the big screen in a spectacular battle for the ages. As a squadron embarks on a perilous mission into fantastic uncharted terrain, unearthing clues to the Titans\' very origins and mankind's survival, a conspiracy threatens to wipe the creatures, both good and bad, from the face of the earth forever.</item>
+        <item>The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three headed King Ghidorah. When these ancient superspecies, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity\'s very existence hanging in the balance.</item>
+        <item>Several years after the Navi repelled the RDA invasion Jake Sully and his family are living on Pandora. Things seem peaceful but the RDA has other plans, invading and capturing Pandora. Sully forms a guerrilla group to try to expel the invaders.</item>
+        <item>Earth future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind\'s survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action | Adventure | Sci-Fi</item>
+        <item>Action | Adventure | Sci-Fi</item>
+        <item>Action | Adventure | Sci-Fi</item>
+        <item>Action | Adventure | Sci-Fi</item>
+        <item>Action | Adventure | Sci-Fi</item>
+        <item>Action | Adventure | Fantasy</item>
+        <item>Action | Sci-Fi | Thriller</item>
+        <item>Action | Adventure | Fantasy</item>
+        <item>Action | Adventure | Fantasy</item>
+        <item>Adventure | Drama | Sci-Fi</item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2h 34m</item>
+        <item>2h 29m</item>
+        <item>2h 11m</item>
+        <item>1h 51m</item>
+        <item>2h 29m</item>
+        <item>1h 52m</item>
+        <item>1h 53m</item>
+        <item>2h 12m</item>
+        <item>3h 12m</item>
+        <item>2h 49m</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>6.2/10</item>
+        <item>6.0/10</item>
+        <item>6.9/10</item>
+        <item>5.6/10</item>
+        <item>8.4/10</item>
+        <item>6.8/10</item>
+        <item>6.3/10</item>
+        <item>6.0/10</item>
+        <item>7.6/10</item>
+        <item>8.7/10</item>
+    </string-array>
+
+    <string-array name="data_poster">
+        <item>@drawable/transformers_dark_of_the_moon</item>
+        <item>@drawable/transformers_revenge_of_the_fallen</item>
+        <item>@drawable/pacific_rim</item>
+        <item>@drawable/pacific_rim_uprising</item>
+        <item>@drawable/avengers</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/godzilla_vs_kong</item>
+        <item>@drawable/godzilla_king_of_the_monster</item>
+        <item>@drawable/avatar</item>
+        <item>@drawable/interstellar</item>
+    </string-array>
+
 </resources>
