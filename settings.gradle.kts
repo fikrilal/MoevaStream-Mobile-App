@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "MoevaStream-Mobile-App"
 include(":app")
- 

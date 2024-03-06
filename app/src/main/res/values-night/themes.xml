@@ -4,48 +4,4 @@
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
-
-
-<!--    <style name="TitleHeavy">-->
-<!--        <item name="android:layout_width">wrap_content</item>-->
-<!--        <item name="android:layout_height">wrap_content</item>-->
-<!--        <item name="android:textColor">#FFF8FAFC</item>-->
-<!--        <item name="android:fontFamily">@font/sfheavy</item>-->
-<!--    </style>-->
-
-<!--    <style name="TitleBlack">-->
-<!--        <item name="android:layout_width">wrap_content</item>-->
-<!--        <item name="android:layout_height">wrap_content</item>-->
-<!--        <item name="android:textColor">#FFF8FAFC</item>-->
-<!--        <item name="android:fontFamily">@font/sfblack</item>-->
-<!--    </style>-->
-
-<!--    <style name="TitleBold">-->
-<!--        <item name="android:layout_width">wrap_content</item>-->
-<!--        <item name="android:layout_height">wrap_content</item>-->
-<!--        <item name="android:textColor">#FFF8FAFC</item>-->
-<!--        <item name="android:fontFamily">@font/sfbold</item>-->
-<!--    </style>-->
-
-<!--    <style name="DescSemibold">-->
-<!--        <item name="android:layout_width">wrap_content</item>-->
-<!--        <item name="android:layout_height">wrap_content</item>-->
-<!--        <item name="android:textColor">#FFE1E7EF</item>-->
-<!--        <item name="android:fontFamily">@font/sfsemibold</item>-->
-<!--    </style>-->
-
-<!--    <style name="DescMedium">-->
-<!--        <item name="android:layout_width">wrap_content</item>-->
-<!--        <item name="android:layout_height">wrap_content</item>-->
-<!--        <item name="android:textColor">#FFE1E7EF</item>-->
-<!--        <item name="android:fontFamily">@font/sfmedium</item>-->
-<!--    </style>-->
-
-<!--    <style name="DescRegular">-->
-<!--        <item name="android:layout_width">wrap_content</item>-->
-<!--        <item name="android:layout_height">wrap_content</item>-->
-<!--        <item name="android:textColor">#FFE1E7EF</item>-->
-<!--        <item name="android:fontFamily">@font/sfregular</item>-->
-<!--    </style>-->
-
 </resources>

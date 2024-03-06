@@ -2,10 +2,4 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="backgroundPrimary">#FF030711</color>
-    <color name="cardBackground">#FF0F1629</color>
-    <color name="border">#FF1D283A</color>
-    <color name="brandPrimary">#FFDB0000</color>
-    <color name="textPrimary">#FFF8FAFC</color>
-    <color name="textSecondary">#FFE1E7EF</color>
 </resources>
